@@ -45,7 +45,11 @@ Among other things, this website may contain information about medical condition
 - [Columbia/Boone County Public Health and Human Services COVID-19 Homepage](https://www.como.gov/health/novel-coronavirus-2019-covid-19/)
 - [Missouri Department of Health & Senior Services COVID-19 Homepage](https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/)
 - [Center of Disease Control COVID-19 Homepage](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
+- [Columbia Public Schools COVID-19 Homepage](https://www.cpsk12.org/Page/11993)
 
 ## Data and Metrics
 - [Institute of Health Metrics and Evaluation COVID-19 Projections](https://covid19.healthdata.org/projections)
 
+# Food Safety and Nutrition Support
+- [CPS Grab-and-Go Meal Service](https://www.cpsk12.org/cms/lib/MO01909752/Centricity/Domain/9415/CPS%20Grab-and-Go%20Meals.pdf)
+- [Food Bank Boone County Locations](https://sharefoodbringhope.org/agencies/boone)
