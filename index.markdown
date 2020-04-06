@@ -15,7 +15,7 @@ CoMoCovid was inspired by the [Coronavirus Handbook](https://coronavirustechhand
 
 Basically if you find something other people might find useful, feel free to add it to this site.
 
-If you have any suggestions or additions that you would like added, [use this form](TODO ADD ME) and your suggestion will be reviewed. 
+If you have any suggestions or additions that you would like added, [use this form](https://docs.google.com/forms/d/1FIxZZkxYtCW5SjPhBAMVkWjm5BIb9twVGAzKBCo1L3M/) and your suggestion will be reviewed. 
 
 If you have some technical chops we would love it if you submit pull request to our [Github repository](https://github.com/tantalum/comocovid.com).
 
