@@ -23,17 +23,18 @@ If you have some technical chops we would love it if you submit pull request to 
 
 If you know of any resources that would be beneficial to the CoMo community feel free to submit it to our list. Specifically we are looking for resources for:
 
-* Official Data, Information and Guidelines
-* Food Safety and Nutrition Support
-* Homeless Shelters and Support
-* Personal Protection and Sanitization
+* [Official Data, Information and Guidelines](#official-data-information-and-guidelines)
+* [Data and Metrics](#data-and-metrics)
+* [Food Safety and Nutrition Support](#food-safety-and-nutrition-support)
+* [Homeless Shelters and Support](#homeless-shelters-and-support)
+* [Personal Protection and Sanitization](#personal-protection-and-sanitization)
 * Stay at Home Resources
     * Home Schooling
     * Activities
     * Mental Health
 * Job Opportunities
 * Community Support
-* Technical Projects
+* [Technical Projects](#technical-projects)
 
 # Disclaimer
 
@@ -47,9 +48,25 @@ Among other things, this website may contain information about medical condition
 - [Center of Disease Control COVID-19 Homepage](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 - [Columbia Public Schools COVID-19 Homepage](https://www.cpsk12.org/Page/11993)
 
-## Data and Metrics
+# Data and Metrics
+
 - [Institute of Health Metrics and Evaluation COVID-19 Projections](https://covid19.healthdata.org/projections)
 
 # Food Safety and Nutrition Support
+
 - [CPS Grab-and-Go Meal Service](https://www.cpsk12.org/cms/lib/MO01909752/Centricity/Domain/9415/CPS%20Grab-and-Go%20Meals.pdf)
 - [Food Bank Boone County Locations](https://sharefoodbringhope.org/agencies/boone)
+
+# Homeless Shelters and Support
+
+- [CoMo Crisis Shelter](http://comocrisisshelter.com/)
+
+# Personal Protection and Sanitization
+
+- [WHO Clean Hands](https://www.who.int/gpsc/clean_hands_protection/en/)
+- [CDC Cloth Face Mask Guide](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html)
+
+# Technical Projects
+
+- [WHO Hand Sanitizer Local Production Guide](https://www.who.int/gpsc/5may/Guide_to_Local_Production.pdf)
+- [Distributed Manufacturing of Open-Source Medical Hardware for Pandemics](https://www.preprints.org/manuscript/202004.0054/v1)
