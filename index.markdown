@@ -33,7 +33,7 @@ If you know of any resources that would be beneficial to the CoMo community feel
     * Activities
     * Mental Health
 * Job Opportunities
-* Community Support
+* [Community Support](#community-support)
 * [Technical Projects](#technical-projects)
 
 # Disclaimer
@@ -51,6 +51,7 @@ Among other things, this website may contain information about medical condition
 # Data and Metrics
 
 - [Institute of Health Metrics and Evaluation COVID-19 Projections](https://covid19.healthdata.org/projections)
+- [Johns Hopkins COVID-19 Map](https://coronavirus.jhu.edu/map.html)
 
 # Food Safety and Nutrition Support
 
@@ -65,6 +66,10 @@ Among other things, this website may contain information about medical condition
 
 - [WHO Clean Hands](https://www.who.int/gpsc/clean_hands_protection/en/)
 - [CDC Cloth Face Mask Guide](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html)
+
+# Community Support
+
+- [Local Business Directory](https://www.google.com/maps/d/u/1/viewer?mid=16A_UBAJyqUX-Wu9I8_TYE1NtUeixsQSW&ll=38.94159785119063%2C-92.31605704999998&z=13)
 
 # Technical Projects
 
