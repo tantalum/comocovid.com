@@ -67,6 +67,8 @@ Among other things, this website may contain information about medical condition
 
 - [WHO Clean Hands](https://www.who.int/gpsc/clean_hands_protection/en/)
 - [CDC Cloth Face Mask Guide](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html)
+- [Central MO Mask Makers](https://www.facebook.com/groups/634502703997345/)
+- [Sew For Safety](https://www.facebook.com/groups/569725503643291/)
 
 # Community Support
 
@@ -74,6 +76,7 @@ Among other things, this website may contain information about medical condition
 - [UnitedWay 211](http://www.211helps.org/)
 - [Help Radar](https://helpradar.co/)
 - [CoMo Helps](https://comohelps.org/)
+- [Chamber of Commerce Resources](https://columbiamochamber.com/resources/covid-19-resources/)
 
 
 # Technical Projects
