@@ -25,6 +25,7 @@ If you know of any resources that would be beneficial to the CoMo community feel
 
 * [Official Data, Information and Guidelines](#official-data-information-and-guidelines)
 * [Data and Metrics](#data-and-metrics)
+* [Maps](#maps)
 * [Food Safety and Nutrition Support](#food-safety-and-nutrition-support)
 * [Homeless Shelters and Support](#homeless-shelters-and-support)
 * [Personal Protection and Sanitization](#personal-protection-and-sanitization)
@@ -53,6 +54,11 @@ Among other things, this website may contain information about medical condition
 
 - [Institute of Health Metrics and Evaluation COVID-19 Projections](https://covid19.healthdata.org/projections)
 - [Johns Hopkins COVID-19 Map](https://coronavirus.jhu.edu/map.html)
+
+# Maps
+
+<iframe scrolling="no" marginheight="0" marginwidth="0" title="COVID-19" src="https://mophep.maps.arcgis.com/apps/Media/index.html?appid=72069da6171148df8ee6a9688ce92e74" width="748" height="500" frameborder="0"></iframe>
+<iframe scrolling="no" marginheight="0" marginwidth="0" title="COVID-19" src="http://jeffcitymogis.maps.arcgis.com/apps/webappviewer/index.html?id=ac0213f42a73447ba85e1cf197ec9061" width="748" height="500" frameborder="0"></iframe>
 
 # Food Safety and Nutrition Support
 
