@@ -34,6 +34,7 @@ If you know of any resources that would be beneficial to the CoMo community feel
     * Mental Health
 * Job Opportunities
 * [Community Support](#community-support)
+* [Small Business and Unemployment Support](#small-business-and-unemployment-support)
 * [Technical Projects](#technical-projects)
 
 # Disclaimer
@@ -76,8 +77,11 @@ Among other things, this website may contain information about medical condition
 - [UnitedWay 211](http://www.211helps.org/)
 - [Help Radar](https://helpradar.co/)
 - [CoMo Helps](https://comohelps.org/)
-- [Chamber of Commerce Resources](https://columbiamochamber.com/resources/covid-19-resources/)
 
+# Small Business and Unemployment Support
+- [Chamber of Commerce Resources](https://columbiamochamber.com/resources/covid-19-resources/)
+- [Restaurant Employee  Relief Fund](https://rerf.us/)
+- [Kansas City Safe Return Guide](http://thinkkc.com/docs/default-source/default-document-library/final-safereturn-guide.pdf)
 
 # Technical Projects
 
