@@ -49,6 +49,8 @@ Among other things, this website may contain information about medical condition
 - [Missouri Department of Health & Senior Services COVID-19 Homepage](https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/)
 - [Center of Disease Control COVID-19 Homepage](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 - [Columbia Public Schools COVID-19 Homepage](https://www.cpsk12.org/Page/11993)
+- [Boone County Reopening Order](https://s3.us-east-1.wasabisys.com/assets.npgco.com/abc17news.com/2020/04/City-Order-No-2020-05-Final.pdf)
+- [Missouri Reopening Order](https://s3.us-east-1.wasabisys.com/assets.npgco.com/abc17news.com/2020/04/Economic-Reopening-Order-4-27-20.pdf)
 
 # Data and Metrics
 
@@ -87,6 +89,7 @@ Among other things, this website may contain information about medical condition
 # Small Business and Unemployment Support
 - [Chamber of Commerce Resources](https://columbiamochamber.com/resources/covid-19-resources/)
 - [Restaurant Employee  Relief Fund](https://rerf.us/)
+- [Boone County Reopening Order](https://s3.us-east-1.wasabisys.com/assets.npgco.com/abc17news.com/2020/04/City-Order-No-2020-05-Final.pdf)
 - [Kansas City Safe Return Guide](http://thinkkc.com/docs/default-source/default-document-library/final-safereturn-guide.pdf)
 
 # Technical Projects
