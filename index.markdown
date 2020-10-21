@@ -56,6 +56,7 @@ Among other things, this website may contain information about medical condition
 
 - [Institute of Health Metrics and Evaluation COVID-19 Projections](https://covid19.healthdata.org/projections)
 - [Johns Hopkins COVID-19 Map](https://coronavirus.jhu.edu/map.html)
+- [MO Covid School Tracker](https://www.covidschooltracker.com/mo)
 
 # Maps
 
@@ -87,10 +88,13 @@ Among other things, this website may contain information about medical condition
 - [CoMo Helps](https://comohelps.org/)
 
 # Small Business and Unemployment Support
+
 - [Chamber of Commerce Resources](https://columbiamochamber.com/resources/covid-19-resources/)
 - [Restaurant Employee  Relief Fund](https://rerf.us/)
+- [City of Columbia Reopening Guide](https://www.como.gov/wp-content/uploads/BusinessGuidance-0526.pdf)
 - [Boone County Reopening Order](https://s3.us-east-1.wasabisys.com/assets.npgco.com/abc17news.com/2020/04/City-Order-No-2020-05-Final.pdf)
 - [Kansas City Safe Return Guide](http://thinkkc.com/docs/default-source/default-document-library/final-safereturn-guide.pdf)
+- [CDC COVID-19 Guildelines for Office Buildings](https://www.cdc.gov/coronavirus/2019-ncov/community/office-buildings.html)
 
 # Technical Projects
 
