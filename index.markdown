@@ -45,6 +45,7 @@ Among other things, this website may contain information about medical condition
 # Official Data, Information and Guidelines
 
 - [City of Columbia COVID-19 Information](https://www.como.gov/coronavirus/)
+- [City of Columbia Vaccine Information](https://www.como.gov/covidvaccine/)
 - [Columbia/Boone County Public Health and Human Services COVID-19 Homepage](https://www.como.gov/health/novel-coronavirus-2019-covid-19/)
 - [Missouri Department of Health & Senior Services COVID-19 Homepage](https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/)
 - [Center of Disease Control COVID-19 Homepage](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
